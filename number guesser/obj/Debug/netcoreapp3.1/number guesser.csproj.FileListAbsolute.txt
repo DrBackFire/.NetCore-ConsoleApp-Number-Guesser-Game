@@ -1,0 +1,12 @@
+C:\Users\DrBackFire\Documents\Projects\C# Projects\Console Form\number guesser\bin\Debug\netcoreapp3.1\number guesser.exe
+C:\Users\DrBackFire\Documents\Projects\C# Projects\Console Form\number guesser\bin\Debug\netcoreapp3.1\number guesser.deps.json
+C:\Users\DrBackFire\Documents\Projects\C# Projects\Console Form\number guesser\bin\Debug\netcoreapp3.1\number guesser.runtimeconfig.json
+C:\Users\DrBackFire\Documents\Projects\C# Projects\Console Form\number guesser\bin\Debug\netcoreapp3.1\number guesser.runtimeconfig.dev.json
+C:\Users\DrBackFire\Documents\Projects\C# Projects\Console Form\number guesser\bin\Debug\netcoreapp3.1\number guesser.dll
+C:\Users\DrBackFire\Documents\Projects\C# Projects\Console Form\number guesser\bin\Debug\netcoreapp3.1\number guesser.pdb
+C:\Users\DrBackFire\Documents\Projects\C# Projects\Console Form\number guesser\obj\Debug\netcoreapp3.1\number guesser.AssemblyInfoInputs.cache
+C:\Users\DrBackFire\Documents\Projects\C# Projects\Console Form\number guesser\obj\Debug\netcoreapp3.1\number guesser.AssemblyInfo.cs
+C:\Users\DrBackFire\Documents\Projects\C# Projects\Console Form\number guesser\obj\Debug\netcoreapp3.1\number guesser.csproj.CoreCompileInputs.cache
+C:\Users\DrBackFire\Documents\Projects\C# Projects\Console Form\number guesser\obj\Debug\netcoreapp3.1\number guesser.dll
+C:\Users\DrBackFire\Documents\Projects\C# Projects\Console Form\number guesser\obj\Debug\netcoreapp3.1\number guesser.pdb
+C:\Users\DrBackFire\Documents\Projects\C# Projects\Console Form\number guesser\obj\Debug\netcoreapp3.1\number guesser.genruntimeconfig.cache
