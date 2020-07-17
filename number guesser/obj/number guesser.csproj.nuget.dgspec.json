@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DrBackFire\\Documents\\Projects\\C# Projects\\Console Form\\number guesser\\number guesser.csproj": {}
+    "C:\\Users\\DrBackFire\\Documents\\Projects\\C# Projects\\Console Form\\C-Sharp-ConsoleApp-Number-Game\\number guesser\\number guesser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DrBackFire\\Documents\\Projects\\C# Projects\\Console Form\\number guesser\\number guesser.csproj": {
+    "C:\\Users\\DrBackFire\\Documents\\Projects\\C# Projects\\Console Form\\C-Sharp-ConsoleApp-Number-Game\\number guesser\\number guesser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DrBackFire\\Documents\\Projects\\C# Projects\\Console Form\\number guesser\\number guesser.csproj",
+        "projectUniqueName": "C:\\Users\\DrBackFire\\Documents\\Projects\\C# Projects\\Console Form\\C-Sharp-ConsoleApp-Number-Game\\number guesser\\number guesser.csproj",
         "projectName": "number guesser",
-        "projectPath": "C:\\Users\\DrBackFire\\Documents\\Projects\\C# Projects\\Console Form\\number guesser\\number guesser.csproj",
+        "projectPath": "C:\\Users\\DrBackFire\\Documents\\Projects\\C# Projects\\Console Form\\C-Sharp-ConsoleApp-Number-Game\\number guesser\\number guesser.csproj",
         "packagesPath": "C:\\Users\\DrBackFire\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DrBackFire\\Documents\\Projects\\C# Projects\\Console Form\\number guesser\\obj\\",
+        "outputPath": "C:\\Users\\DrBackFire\\Documents\\Projects\\C# Projects\\Console Form\\C-Sharp-ConsoleApp-Number-Game\\number guesser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DrBackFire\\AppData\\Roaming\\NuGet\\NuGet.Config",
